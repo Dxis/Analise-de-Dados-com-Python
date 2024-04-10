@@ -1,4 +1,4 @@
-# Projeto Pandas, NumPy e Lambda
+# Analise exploratória com Pandas, NumPy e Lambda
 
 Este é um repositório que explora o uso das bibliotecas Pandas, NumPy e funções lambda em Python para análise de dados e manipulação de arrays.
 
