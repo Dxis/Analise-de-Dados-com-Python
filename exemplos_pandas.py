@@ -10,6 +10,7 @@ data = {
 df = pd.DataFrame(data)
 print(df)
 
+
 #Cabeçalho com limite
 print('Cabeçalho',df.head(2),'\n')
 
